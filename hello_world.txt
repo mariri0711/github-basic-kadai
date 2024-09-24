@@ -1,3 +1,5 @@
 Hello, World 
 echo Hello, World >> hello_world.txt
 echo Hello, World >> hello_world.txt 
+こんにちは、世界 
+
