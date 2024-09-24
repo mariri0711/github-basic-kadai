@@ -1,0 +1,2 @@
+* b08f8af (HEAD -> main) 日本語訳を追記
+* 9ab677e hello_world.txtを追加
