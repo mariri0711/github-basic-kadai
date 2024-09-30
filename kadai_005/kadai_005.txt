@@ -6,7 +6,8 @@
 * b08f8af 日本語訳を追記
 * 9ab677e hello_world.txtを追加
 
+157  cd /Users/teradamari/Desktop/git_challenge
 158  git pull origin main\n
-  159  git pull origin main --allow-unrelated-histories\n
-  160  git add .
-  161  git commit -m "kadai_005"
+159  git pull origin main --allow-unrelated-histories\n
+160  git add .
+161  git commit -m "kadai_005"
