@@ -1,13 +1,10 @@
-*   402f64d (HEAD -> main, origin/main) マージの完了
-|\  
-| * 290161e kadai_githubをアップロード
-* c475f34 kadai_005
-* 432a755 Add kadai_005
-* b08f8af 日本語訳を追記
-* 9ab677e hello_world.txtを追加
+eb242d4 (HEAD -> main) 日本語訳を追記
+513d81d Add hello_world.txt with initial content
 
-157  cd /Users/teradamari/Desktop/git_challenge
-158  git pull origin main\n
-159  git pull origin main --allow-unrelated-histories\n
-160  git add .
-161  git commit -m "kadai_005"
+ 177  mkdir git_challenge
+  180  cd git_challenge
+  181  git init
+  188  git add hello_world.txt
+  189  git commit -m "Add hello_world.txt with initial content"
+  191  git add hello_world.txt
+  192  git commit -m "日本語訳を追記"
