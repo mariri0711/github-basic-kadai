@@ -1,2 +1,7 @@
-* b08f8af (HEAD -> main) 日本語訳を追記
+*   402f64d (HEAD -> main, origin/main) マージの完了
+|\  
+| * 290161e kadai_githubをアップロード
+* c475f34 kadai_005
+* 432a755 Add kadai_005
+* b08f8af 日本語訳を追記
 * 9ab677e hello_world.txtを追加
